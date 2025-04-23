@@ -1,0 +1,11 @@
+{
+  "name": "week-1-day-2-html-forms-tables",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^22.1.0"
+  }
+}
